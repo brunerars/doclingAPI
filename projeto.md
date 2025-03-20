@@ -1,0 +1,1 @@
+O projeto consistirá em desenvolver uma API capaz de estar 24-7 disponível para que possamos criar automações onde os arquivos são processador pela API antes de serem enviados para as LLMS.
