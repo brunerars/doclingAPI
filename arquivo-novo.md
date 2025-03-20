@@ -1,0 +1,1 @@
+novo tipo de arquivo para a API
